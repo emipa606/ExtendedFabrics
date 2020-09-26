@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeCloth.label>Make Cloth</MakeCloth.label>
+  <MakeCloth.description>Combine cotton thread to make cloth.</MakeCloth.description>
+  <MakeCloth.jobString>Weaving cotton thread.</MakeCloth.jobString>
+
+  <MakeDevilstrand.label>Make Devilstrand cloth</MakeDevilstrand.label>
+  <MakeDevilstrand.description>Combine Devilstrand fibres to make Devilstrand Cloth.</MakeDevilstrand.description>
+  <MakeDevilstrand.jobString>Weaving Devilstrand fibres.</MakeDevilstrand.jobString>
+
+  <MakeSynthread.label>Make Synthread</MakeSynthread.label>
+  <MakeSynthread.description>Combine Cloth and Devilstrand to create Synthread.</MakeSynthread.description>
+  <MakeSynthread.jobString>Weaving Synthread.</MakeSynthread.jobString>
+
+  <MakeHyperweave.label>Make Hyperweave</MakeHyperweave.label>
+  <MakeHyperweave.description>Use a secret recipe to create Hyperweave.</MakeHyperweave.description>
+  <MakeHyperweave.jobString>Weaving Hyperweave.</MakeHyperweave.jobString>
+
+
+</LanguageData>

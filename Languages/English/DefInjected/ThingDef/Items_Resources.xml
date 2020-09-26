@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EF_CottonBoll.label>Cotton boll</EF_CottonBoll.label>
+  <EF_CottonBoll.description>Fine threads able to be combined to form larger pieces of cloth when woven together.</EF_CottonBoll.description>
+
+  <EF_DevilstrandThread.label>Devilstrand thread</EF_DevilstrandThread.label>
+  <EF_DevilstrandThread.description>Fine fibres from the Devilstrand fungi, used in creating strong fabrics.</EF_DevilstrandThread.description>
+
+
+</LanguageData>
