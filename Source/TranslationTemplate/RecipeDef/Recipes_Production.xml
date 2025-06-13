@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Make Cloth -->
+  <MakeCloth.label>Make Cloth</MakeCloth.label>
+  <!-- EN: Combine cotton thread to make cloth. -->
+  <MakeCloth.description>Combine cotton thread to make cloth.</MakeCloth.description>
+  <!-- EN: Weaving cotton thread. -->
+  <MakeCloth.jobString>Weaving cotton thread.</MakeCloth.jobString>
+  <!-- EN: Make Devilstrand cloth -->
+  <MakeDevilstrand.label>Make Devilstrand cloth</MakeDevilstrand.label>
+  <!-- EN: Combine Devilstrand fibres to make Devilstrand Cloth. -->
+  <MakeDevilstrand.description>Combine Devilstrand fibres to make Devilstrand Cloth.</MakeDevilstrand.description>
+  <!-- EN: Weaving Devilstrand fibres. -->
+  <MakeDevilstrand.jobString>Weaving Devilstrand fibres.</MakeDevilstrand.jobString>
+  <!-- EN: Make Hyperweave -->
+  <MakeHyperweave.label>Make Hyperweave</MakeHyperweave.label>
+  <!-- EN: Use a secret recipe to create Hyperweave. -->
+  <MakeHyperweave.description>Use a secret recipe to create Hyperweave.</MakeHyperweave.description>
+  <!-- EN: Weaving Hyperweave. -->
+  <MakeHyperweave.jobString>Weaving Hyperweave.</MakeHyperweave.jobString>
+  <!-- EN: Make Synthread -->
+  <MakeSynthread.label>Make Synthread</MakeSynthread.label>
+  <!-- EN: Combine Cloth and Devilstrand to create Synthread. -->
+  <MakeSynthread.description>Combine Cloth and Devilstrand to create Synthread.</MakeSynthread.description>
+  <!-- EN: Weaving Synthread. -->
+  <MakeSynthread.jobString>Weaving Synthread.</MakeSynthread.jobString>
+</LanguageData>
